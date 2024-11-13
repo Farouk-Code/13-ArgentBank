@@ -2,7 +2,6 @@
  * Composant pour afficher le formulaire de connexion.
  * Gère la soumission du formulaire et l'authentification de l'utilisateur.
  *
- * @version 1.0.0
  */
 import { useRef } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
